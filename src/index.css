@@ -1,0 +1,14 @@
+.logo{
+  height:50px;
+  
+}
+.infinite-scroll-component {
+  overflow: hidden !important;
+}
+.news-badge{
+  display: flex;
+  justify-content: flex-end;
+  position: absolute;
+  right: 0%;
+
+}
