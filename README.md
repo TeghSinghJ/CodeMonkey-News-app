@@ -1,7 +1,9 @@
 # Output
 
 ![image](https://github.com/TeghSinghJ/CodeMonkey-News-app/assets/81065036/e952dbe6-dda3-4d11-af1e-3d819e290104)
+<br/>
 ![image](https://github.com/TeghSinghJ/CodeMonkey-News-app/assets/81065036/c64e3eb4-ae54-4c7d-9a15-46d3e480f10e)
+<br/>
 ![image](https://github.com/TeghSinghJ/CodeMonkey-News-app/assets/81065036/2fcf6c3b-ebfa-4d9f-aa1b-3fc90e88a205)
 
 
